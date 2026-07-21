@@ -13,7 +13,7 @@ services:
       - ./storage:/app/storage
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 35s
+      interval: 20s
+      timeout: 15s
+      retries: 4
+      start_period: 40s
