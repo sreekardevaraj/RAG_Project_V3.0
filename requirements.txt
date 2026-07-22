@@ -14,5 +14,4 @@ aiofiles
 cors
 langchain-huggingface
 ddgs
-fpdf
 python-dotenv
