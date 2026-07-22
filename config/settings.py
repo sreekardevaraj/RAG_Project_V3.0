@@ -14,7 +14,7 @@ LLM_MODEL_NAME = "llama-3.3-70b-versatile"
 EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
 
 # Splitter
-CHUNK_SIZE    = 520
+CHUNK_SIZE    = 500
 CHUNK_OVERLAP = 50
 
 # Paths
