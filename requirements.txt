@@ -15,4 +15,4 @@ cors
 langchain-huggingface
 ddgs
 fpdf
-dotenv
+python-dotenv
